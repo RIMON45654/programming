@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.banner{
+    width: 70%;
+    height: 100%;
+}
+.flex{
+    display: flex;
+    background-image: linear-gradient(to right, rgba(98, 91, 91, 0.272), rgb(79, 73, 73));
+}
+#btn{
+    background: rgb(27, 236, 93);
+    padding: 6px;
+    border: none;
+    margin-top: 10px;
+}
+.person-img{
+    width: 80%;
+}
+.main-flex{
+    display: flex;
+    margin: auto;
+    width: 80%;
+}
+.mt-10{
+    margin-top: 80px;
+}
